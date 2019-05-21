@@ -2,3 +2,5 @@ create on feature1.1 33333
 first submit line 4444 f1.1-66666
 f1.1-777777 f1.1 11:31 update this line
 f1.1 11:32 add this line
+reset commit test
+5、f1.1 commit rollback test 
